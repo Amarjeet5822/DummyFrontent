@@ -1,0 +1,1 @@
+export const bcUrl = "https://dummybackend-m125.onrender.com"
